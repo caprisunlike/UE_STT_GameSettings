@@ -8,7 +8,6 @@
 4. 파일이 존재하지 않으면 0.2초의 시간 후 다시 파일의 존재를 확인함
 5. STT 결과값에 따라 수행해야할 명령이 0~7로 구분되며 UpdateResult에서 결과값이 업데이트됨을 확인함(only 업데이트 확인용)
 6. 명령 구분 후 값이 올바르게 저장되면 Setting Change 이벤트가 실행되고 명령을 수행함
-![그림2](https://github.com/user-attachments/assets/4b212b51-ee7d-4fd9-bbdf-3e6b3a2337f0)
 
 
 ## Asset
