@@ -4,8 +4,8 @@
 2. 녹음이 종료되면 Check for New File 함수에서 MyAudioWatcher BP의 Speech to Text 이벤트와 Update Result 이벤트가 순차적으로 실행됨
 3. Speech to Text 이벤트에서 wav파일이 존재하는 것이 확인되면 ProcessAudioFile 함수(cpp에 구현)가 실행되며, STT 결과값을 받아오고 녹음이 다시 시작될 경우 기존의 wav파일로 인한 에러를 방지하기 위해 STT API를 거친 wav파일을 삭제함
 4. 파일이 존재하지 않으면 0.2초의 시간 후 다시 파일의 존재를 확인함
-5. STT 결과값에 따라 수행해야할 명령이 0~7로 구분되며 UpdateResult에서 결과값이 업데이트됨을 확인함
-6. 
+5. STT 결과값에 따라 수행해야할 명령이 0~7로 구분되며 UpdateResult에서 결과값이 업데이트됨을 확인함(only 업데이트 확인용)
+6. 명령 구분 후 값이 올바르게 저장되면 Setting Change 이벤트가 실행되고 명령을 수행함
 
 ## Asset
 ![만들어야하는거](https://github.com/user-attachments/assets/911847c1-47fb-480b-a7a9-2cf624c1676a)
