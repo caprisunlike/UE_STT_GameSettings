@@ -1,7 +1,8 @@
 # 캡스톤디자인 프로젝트 STT 파트 2024-2
-### 에셋
+## Asset
 ![만들어야하는거](https://github.com/user-attachments/assets/911847c1-47fb-480b-a7a9-2cf624c1676a)
-### 소리 녹음 블루프린트
+
+## MyAudioWatcher Blueprint
 - 컴포넌트 및 변수
 
   ![audiowatchervalue](https://github.com/user-attachments/assets/3dd34334-acdd-4de9-b986-91edad36285d)
@@ -23,7 +24,7 @@
     ![changevolume](https://github.com/user-attachments/assets/906cb25b-350c-45a4-add5-1adee118d700)
 
 
-### 캐릭터 블루프린트
+## Character Blueprint
 - 컴포넌트 및 변수
 
   ![캐릭터변수설정](https://github.com/user-attachments/assets/6aedca81-9a74-4c29-9f95-d51bccb2191b)
@@ -36,5 +37,5 @@
   - 새로운 오디오 파일이 만들어졌는지 확인
     ![newaudiofile확인](https://github.com/user-attachments/assets/96d5120f-c7ca-4806-8d60-bd882315ef4f)
 
-### for loop with delay 매크로
+## For loop with delay 매크로
 ![forloopdelay매크로](https://github.com/user-attachments/assets/0eb160e7-a866-4c33-9c84-fb6c6e9676c8)
