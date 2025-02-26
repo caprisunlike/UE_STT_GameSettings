@@ -3,6 +3,7 @@
 ![만들어야하는거](https://github.com/user-attachments/assets/911847c1-47fb-480b-a7a9-2cf624c1676a)
 ### 소리 녹음 블루프린트
 - 컴포넌트 및 변수
+
   ![audiowatchervalue](https://github.com/user-attachments/assets/3dd34334-acdd-4de9-b986-91edad36285d)
 - 이벤트 그래프
   - 메인 이벤트
@@ -24,6 +25,7 @@
 
 ### 캐릭터 블루프린트
 - 컴포넌트 및 변수
+
   ![캐릭터변수설정](https://github.com/user-attachments/assets/6aedca81-9a74-4c29-9f95-d51bccb2191b)
 - 이벤트 그래프
   - 키보드 입력
