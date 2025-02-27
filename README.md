@@ -1,5 +1,5 @@
 # 캡스톤디자인 프로젝트 STT 파트 2024-2
-
+음성 명령으로 인게임에서 환경설정이나 이펙트 조절
 ## 밝기 조절 예시
 ![sttf](https://github.com/user-attachments/assets/a4bc8260-eac4-469e-a5a7-e64ae3c8a2ac)
 
