@@ -1,5 +1,7 @@
 # 캡스톤디자인 프로젝트 STT 파트 2024-2
 
+## 밝기 조절 예시
+![sttf](https://github.com/user-attachments/assets/a4bc8260-eac4-469e-a5a7-e64ae3c8a2ac)
 
 ## 순서
 1. '1'키를 누르면 녹음이 시작되고 누르는 것을 멈추면 녹음이 종료된 후 wav파일이 생성됨
